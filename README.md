@@ -53,7 +53,7 @@ The model is trained by calling the main function, which is integrated with Wand
 
 ## Libraries
 
-Required libraries such as NumPy, WandB, scikit-learn, Matplotlib, and Seaborn are imported to support the implementation.
+Required libraries such as NumPy, WandB, scikit-learn, Matplotlib,etc are imported to support the implementation.
 
 ## Confusion Matrix
 
